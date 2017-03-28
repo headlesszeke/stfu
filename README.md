@@ -1,5 +1,6 @@
-STFU - Session Token Fuzzing Utility: A ruby library for auditing session tokens.
+STFU
 ==
+### Session Token Fuzzing Utility: A ruby library for auditing session tokens.
 
 I needed a way to quickly and easily spin up tests for checking a session token in a secure app for
 common weaknesses like lack of randomness, usage of known values, etc. This library is the result
